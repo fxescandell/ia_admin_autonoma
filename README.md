@@ -1,4 +1,4 @@
-# AI Admin Autónomo
+# AI Admin Autónomo ..
 
 Admin Local con IA multiagente que planifica, crea, verifica y publica contenido en WordPress y redes (n8n), con plugins autodetectables, scheduler y Cloudflare Tunnel.
 
