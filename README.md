@@ -1,4 +1,4 @@
-# AI Admin Autónomo .. :) bu
+# AI Admin Autónomo .. :) buk
 
 Admin Local con IA multiagente que planifica, crea, verifica y publica contenido en WordPress y redes (n8n), con plugins autodetectables, scheduler y Cloudflare Tunnel.
 
